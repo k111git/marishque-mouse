@@ -14,10 +14,23 @@ pip install marishque_mouse
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+Set up mouse:
 
 ``` python
-1+1
+mouse=Mouse(29)
 ```
 
-    2
+``` python
+mouse.call(10)
+```
+
+    Mousiin
+    Mousiiin
+    Mousiiiin
+    Mousiiiiin
+    Mousiiiiiin
+    Mousiiiiiiin
+    Mousiiiiiiiin
+    Mousiiiiiiiiin
+    Mousiiiiiiiiiin
+    Mousiiiiiiiiiiin
