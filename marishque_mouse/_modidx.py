@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://k111git.github.io',
                 'git_url': 'https://github.com/k111git/marishque-mouse',
                 'lib_path': 'marishque_mouse'},
-  'syms': {'marishque_mouse.core': {'marishque_mouse.core.foo': ('core.html#foo', 'marishque_mouse/core.py')}}}
+  'syms': { 'marishque_mouse.core': {'marishque_mouse.core.foo': ('core.html#foo', 'marishque_mouse/core.py')},
+            'marishque_mouse.mouse': {'marishque_mouse.mouse.foo': ('core.html#foo', 'marishque_mouse/mouse.py')}}}
