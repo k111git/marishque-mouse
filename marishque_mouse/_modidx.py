@@ -6,4 +6,7 @@ d = { 'settings': { 'branch': 'master',
                 'git_url': 'https://github.com/k111git/marishque-mouse',
                 'lib_path': 'marishque_mouse'},
   'syms': { 'marishque_mouse.core': {'marishque_mouse.core.foo': ('core.html#foo', 'marishque_mouse/core.py')},
-            'marishque_mouse.mouse': {'marishque_mouse.mouse.foo': ('core.html#foo', 'marishque_mouse/mouse.py')}}}
+            'marishque_mouse.mouse': { 'marishque_mouse.mouse.Mouse': ('core.html#mouse', 'marishque_mouse/mouse.py'),
+                                       'marishque_mouse.mouse.Mouse.__init__': ('core.html#__init__', 'marishque_mouse/mouse.py'),
+                                       'marishque_mouse.mouse.Mouse.__str__': ('core.html#__str__', 'marishque_mouse/mouse.py'),
+                                       'marishque_mouse.mouse.Mouse.call': ('core.html#call', 'marishque_mouse/mouse.py')}}}
