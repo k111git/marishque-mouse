@@ -22,5 +22,5 @@ class Mouse:
         for i in range(0,n):
             out=out+"i"
             print(f'{out}n')
-            time.sleep(0.5)
+            time.sleep(0.6)
             
