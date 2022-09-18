@@ -9,4 +9,6 @@ d = { 'settings': { 'branch': 'master',
             'marishque_mouse.mouse': { 'marishque_mouse.mouse.Mouse': ('core.html#mouse', 'marishque_mouse/mouse.py'),
                                        'marishque_mouse.mouse.Mouse.__init__': ('core.html#__init__', 'marishque_mouse/mouse.py'),
                                        'marishque_mouse.mouse.Mouse.__str__': ('core.html#__str__', 'marishque_mouse/mouse.py'),
-                                       'marishque_mouse.mouse.Mouse.call': ('core.html#call', 'marishque_mouse/mouse.py')}}}
+                                       'marishque_mouse.mouse.Mouse.call': ('core.html#call', 'marishque_mouse/mouse.py'),
+                                       'marishque_mouse.mouse.test_normal_case': ( 'core.html#test_normal_case',
+                                                                                   'marishque_mouse/mouse.py')}}}

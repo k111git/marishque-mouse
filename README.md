@@ -18,7 +18,13 @@ pip install marishque-mouse==0.0.2
 Set up mouse:
 
 ``` python
-mouse=Mouse(29)
+print('hi')
+```
+
+    hi
+
+``` python
+mouse=Mouse(29,'Marishque')
 ```
 
 Call the mouse:
@@ -37,6 +43,7 @@ mouse.call(10)
     Mousiiiiiiiiin
     Mousiiiiiiiiiin
     Mousiiiiiiiiiiin
+    Mouse Marishque, age 29 has been called
 
 How old is the mouse?
 
