@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "marishque-mouse",
+    "section": "",
+    "text": "https://k111git.github.io/marishque-mouse/"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "marishque-mouse",
+    "section": "Install",
+    "text": "Install\npip install marishque-mouse==0.0.2"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "marishque-mouse",
+    "section": "How to use",
+    "text": "How to use\nSet up mouse:\n\nprint('hi')\n\nhi\n\n\n\nmouse=Mouse(29,'Marishque')\n\nCall the mouse:\n\nmouse.call(10)\n\nMousiin\nMousiiin\nMousiiiin\nMousiiiiin\nMousiiiiiin\nMousiiiiiiin\nMousiiiiiiiin\nMousiiiiiiiiin\nMousiiiiiiiiiin\nMousiiiiiiiiiiin\nMouse Marishque, age 29 has been called\n\n\nHow old is the mouse?\n\nf'Mouse is {mouse.age} years old'\n\n'Mouse is 29 years old'"
+  },
+  {
+    "objectID": "Untitled.html",
+    "href": "Untitled.html",
+    "title": "marishque-mouse",
+    "section": "",
+    "text": "x = 1\nif x == 1:\n    # indented four spaces\n    print(\"x is 1.\")\n\nx is 1."
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "Mouse core",
+    "section": "",
+    "text": "source\n\nMouse\n\n Mouse (age, name)\n\nThis is a cute mouse\n\n\n\n\nDetails\n\n\n\n\nage\nAge of the mouse\n\n\nname\nname of the mouse\n\n\n\n\nsource\n\n\nMouse.call\n\n Mouse.call (n:int=5)\n\nCalls the cute Mouse n times\n\nmouse=Mouse(29,'Marishque')\n\n\nmouse2=Mouse(36,'Kolja')\n\nHow old is Mouse?\n\nmouse.age\n\n29\n\n\n\nmouse2.age\n\n36\n\n\n\nmouse2.name\n\n'Kolja'\n\n\n\nsource\n\n\ntest_normal_case\n\n test_normal_case ()\n\n\n#Test\nassert(mouse.age==29)\n\n\nmouse.call(2)\n\nMousiin\nMousiiin\nMouse Marishque, age 29 has been called\n\n\n\nmouse2.call(2)\n\nMousiin\nMousiiin\nMouse Kolja, age 36 has been called"
+  }
+]
